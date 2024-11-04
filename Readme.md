@@ -6,7 +6,7 @@
 <a href="https://drive.google.com/file/d/1aKI5Gx9vJTlt0LpGvs81RN3DmCEC4FEH/view?usp=sharing">
 <img src='https://img.shields.io/badge/Paper-PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoWidth=20&logoColor=white&labelColor=66cc00&color=94DD15' alt='Paper PDF'>
 </a>
-<img src = "kucho mucho.JPG">
+<img src = "static/images/kucho mucho.JPG">
 
 ## Description
 
